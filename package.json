@@ -1,0 +1,18 @@
+{
+  "name": "vtc_blockchain_indexer",
+  "version": "1.0.0",
+  "description": "Vertcoin Blockchain Indexer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bignumber.js": "^4.0.4",
+    "buffer-equal": "^1.0.0",
+    "buffer-reverse": "^1.0.1",
+    "request": "^2.82.0"
+  }
+}
